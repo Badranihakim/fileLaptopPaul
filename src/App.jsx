@@ -1,14 +1,10 @@
-import Header from "./Header"
-import Footer from "./Footer"
-import Food from "./Food"
+import Card from "./komponen sesi 2/Card"
 
 export default function App(){
   return (
     <>
-      <Header />
-      <Food />
-      <Food />
-      <Footer />
+      <Card />
+      <Card />
     </>
   )
 }
